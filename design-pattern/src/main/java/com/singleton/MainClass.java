@@ -1,4 +1,4 @@
-package singleton;
+package com.singleton;
 
 public class MainClass {
 
